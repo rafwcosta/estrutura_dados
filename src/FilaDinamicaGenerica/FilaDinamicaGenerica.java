@@ -3,6 +3,8 @@ package FilaDinamicaGenerica;
 
 import java.util.NoSuchElementException;
 
+import Fila.NoDuplo;
+
 public class FilaDinamicaGenerica<T> implements Enfileiravel<T> {
 
 	private int quantidade;
