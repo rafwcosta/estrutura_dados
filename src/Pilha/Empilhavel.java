@@ -1,3 +1,4 @@
+package Pilha;
 public interface Empilhavel<T> {
 	void empilhar(T dado);
 	T desempilhar();

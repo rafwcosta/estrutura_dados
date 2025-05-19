@@ -1,3 +1,4 @@
+package Pilha;
 public class NoDuplo<T> {
 	private NoDuplo<T> anterior;
 	private T dado;

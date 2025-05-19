@@ -1,3 +1,4 @@
+package Pilha;
 import java.util.NoSuchElementException;
 
 public class PilhaDinamicaGenerica<T> implements Empilhavel<T> {
